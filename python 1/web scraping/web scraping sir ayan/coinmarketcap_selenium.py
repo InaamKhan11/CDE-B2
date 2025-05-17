@@ -9,7 +9,7 @@ path = r'D:\programming\CDE-B2\python 1\web scraping\chrome_driver\chromedriver-
 # Starting the Chrome driver service
 ser = Service(path)
 # ser.start()
-# Create a new instance of the Chrome driver
+# Create a new instance of the Chrome driver testing testing
 driver = webdriver.Chrome(path)
 
 driver.get("https://coinmarketcap.com/")
