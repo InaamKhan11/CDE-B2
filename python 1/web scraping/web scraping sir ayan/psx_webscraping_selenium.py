@@ -7,7 +7,7 @@ import time
 import csv
 
 path = r'D:\programming\CDE-B2\python 1\web scraping\chrome_driver\chromedriver-win64\chromedriver.exe'
-# chrome_options = webdriver.ChromeOptions()
+# this path is for chromedriver.exe
 
 ser = Service(path)
 
